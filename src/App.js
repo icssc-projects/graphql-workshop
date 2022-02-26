@@ -6,7 +6,8 @@ function App() {
     <div className="App">
         <h1>GraphQL Workshop</h1>
         <h2>Presented by ICSSC Projects Committee</h2>
-        <Course />
+        <Course id={"COMPSCI161"}/>
+        <Course id={"COMPSCI141"}/>
     </div>
   );
 }
